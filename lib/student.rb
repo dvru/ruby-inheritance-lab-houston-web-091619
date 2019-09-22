@@ -8,4 +8,6 @@ end
    @knowledge << string
   end 
   
+def 
+  
 end
