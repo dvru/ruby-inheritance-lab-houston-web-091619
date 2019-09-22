@@ -4,5 +4,6 @@ def initialize
   @knowledge = []
 end 
  
+ def 
   
 end
