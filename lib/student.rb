@@ -5,6 +5,6 @@ def initialize
 end 
  
  def learn(string)
-   
+   @knowledge <<
   
 end
